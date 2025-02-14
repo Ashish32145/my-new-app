@@ -30,3 +30,4 @@ finalise the design and layout
 start implementing the basic filter logic
 test the filtering with a small test
 integrate with the back end fetch
+thats it for this discussion any further question can be asked through comment in the post 
